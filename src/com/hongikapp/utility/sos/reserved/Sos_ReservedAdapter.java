@@ -2,7 +2,6 @@ package com.hongikapp.utility.sos.reserved;
 
 import java.util.ArrayList;
 
-import android.R.raw;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
